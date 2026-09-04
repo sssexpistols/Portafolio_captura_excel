@@ -63,18 +63,17 @@ Las reglas se encuentran visibles dentro del libro para facilitar su revisión y
 - 2 gráficos de seguimiento.
 - Fórmulas, validaciones, filtros y formato condicional.
 
-Los porcentajes y resultados mostrados pertenecen exclusivamente al conjunto de datos simulado; no representan métricas de experiencia laboral.
+Los porcentajes y resultados mostrados pertenecen exclusivamente al conjunto de datos simulado.
 
 ## Sobre el autor
 
 **Ángel Gabriel Valderrama Ramírez**  
-Estudiante de Ingeniería en Informática en UPIICSA, Instituto Politécnico Nacional. Técnico en Soporte y Mantenimiento en Equipos de Cómputo, con dominio intermedio de Excel y velocidad de captura superior a 70 palabras por minuto.
+Estudiante de Ingeniería en Informática en UPIICSA, Instituto Politécnico Nacional. Técnico en Soporte y Mantenimiento en Equipos de Cómputo, con dominio intermedio de Excel y velocidad de captura superior a 70PPM.
 
-- GitHub: [@sssexpistols](https://github.com/sssexpistols)
 - Correo: [gabrielasies6@gmail.com](mailto:gabrielasies6@gmail.com)
 - Ubicación: Ciudad de México
 
 ## Aviso de privacidad
 
-Todos los nombres, cuentas, folios, importes, documentos y trámites incluidos en este proyecto son ficticios. El archivo no contiene información personal o bancaria real y se presenta como **proyecto de portafolio**, no como experiencia laboral previa.
+Todos los nombres, cuentas, folios, importes, documentos y trámites incluidos en este proyecto son ficticios. El archivo no contiene información personal o bancaria real y se presenta como **proyecto de portafolio**.
 
